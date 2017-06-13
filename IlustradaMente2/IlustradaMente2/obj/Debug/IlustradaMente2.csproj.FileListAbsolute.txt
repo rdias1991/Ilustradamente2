@@ -1,0 +1,13 @@
+c:\users\robson\documents\visual studio 2015\Projects\IlustradaMente2\IlustradaMente2\bin\Debug\IlustradaMente2.exe.config
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\bin\Debug\IlustradaMente2.exe
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\bin\Debug\IlustradaMente2.pdb
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.csprojResolveAssemblyReference.cache
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.Properties.Resources.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.csproj.GenerateResource.Cache
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.exe
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.pdb
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.Significado.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.Inicio.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.Principal.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.Som.resources
+C:\Users\Robson\Documents\Visual Studio 2015\Projects\IlustradaMente2\IlustradaMente2\obj\Debug\IlustradaMente2.Historia.resources
